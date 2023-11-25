@@ -1,0 +1,8 @@
+IT1001,Coffee,8.99
+IT1002,Strawberry_Cake,12.80
+IT1003,Mango_Cake,14.00
+IT1004,Strawberry_Smoothie,13.99
+IT1005,Mango_Smoothie,12.99
+IT1006,Chocolate_Cake,14.00
+IT1007,Milk_Tea,10.20
+IT1008,COFE_CAKE,13.00
